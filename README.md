@@ -1,2 +1,2 @@
 # hooktest
-hook added
+hook added -
